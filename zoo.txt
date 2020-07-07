@@ -1,3 +1,5 @@
 1. Elephant
-2. Pinguin
+2. Penguin
 3. Platypus
+4. Aardvark
+5. One more penguin
